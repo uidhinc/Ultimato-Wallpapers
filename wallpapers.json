@@ -1,0 +1,40 @@
+{
+   "wallpapers": [
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/Hexa.JPG",
+         "name": "Hexagon",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/Hexa_thumb.jpg"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/Marvel.png",
+         "name": "Marvel",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/Marvel_thumb.png"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/Polygon.JPG",
+         "name":"Polygon",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/Polygon1_thumb.jpg"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/Polygon2.JPG",
+         "name": "Polygon2",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/Polygon_thumb.jpg"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/RedDot.jpg",
+         "name": "Red Dots",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/RedDot_thumb.jpg"
+      },
+      {
+         "author":"UIDH",
+         "url":"https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/circle.jpg",
+         "name":"Circular",
+         "thumbnail":"https://raw.githubusercontent.com/uidhinc/Ultimato_json/master/circle_thumb.jpg"
+      }
+   ]
+}
